@@ -1,0 +1,14 @@
+{
+  "name": "detweaponproperties",
+  "title": "Detraya's Custom Weapon properties",
+  "description": "Adds the weapon properties det needs for his dnd campaign",
+  "version": "0.1",
+  "author": "Detraya",
+  "systems": ["dnd5e"],
+  "styles": [],
+  "scripts": ["detweaponproperties.js"],
+  "manifest": "https://raw.githubusercontent.com/detraya/detweaponproperties/main/module.json",
+  "download": "https://github.com/detraya/detweaponproperties/archive/main.zip",
+  "minimumCoreVersion": "0.9.0",
+  "compatibleCoreVersion": "0.9.0"
+}
