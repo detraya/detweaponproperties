@@ -2,7 +2,7 @@
   "name": "detweaponproperties",
   "title": "Detraya's Custom Weapon properties",
   "description": "Adds the weapon properties det needs for his dnd campaign",
-  "version": "0.3",
+  "version": "0.4",
   "author": "Detraya",
   "systems": ["dnd5e"],
   "styles": [],
